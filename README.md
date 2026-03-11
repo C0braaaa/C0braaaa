@@ -40,7 +40,7 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/C0braaaa">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
