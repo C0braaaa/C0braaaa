@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm C0bra</h1>
-<h3 align="center">Frontend Developer | ReactJS Enthusiast | UI Lover</h3>
+<h3 align="center">Frontend Developer | ReactJS | UI Lover</h3>
 
 ---
 
